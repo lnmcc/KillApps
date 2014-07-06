@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KillApp</string>
+    <string name="get_running_apps">Get All</string>
+    <string name="kill_all_apps">Kill All</string>
+
+</resources>
